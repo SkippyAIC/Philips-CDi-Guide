@@ -1,0 +1,10 @@
+baseurl: "/jekyll-theme-console-demo-hacker"
+url: "https://b2a3e8.github.io"
+
+style: hacker
+
+footer: 'also check out my <a href="https://github.com/SkippyAIC?tab=repositories">garbage code</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
